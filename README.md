@@ -54,7 +54,7 @@ pip install opencv-python numpy matplotlib
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-repo/yolov3-opencv
+   git clone [YOLOv3-Object-Detection-using-OpenCV](https://github.com/SamamaSaleem/YOLOv3-Object-Detection-using-OpenCV/tree/main/yolov3-opencv)
    cd yolov3-opencv
    ```
 
