@@ -60,7 +60,7 @@ pip install opencv-python numpy matplotlib
 
 2. **Prepare Data:**
    - Place test images in the `images/` folder.
-   - Download ![the YOLO model](https://drive.google.com/file/d/1dQxuJjU6ug_XPinlxblJblQrvxcvIugx/view?usp=drive_link)
+   - Download [the YOLO model](https://drive.google.com/file/d/1dQxuJjU6ug_XPinlxblJblQrvxcvIugx/view?usp=drive_link)
 
 3. **Run the Script:**
    - Execute the detection script:
