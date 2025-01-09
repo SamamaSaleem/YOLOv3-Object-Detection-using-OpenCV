@@ -3,7 +3,12 @@
 This repository demonstrates how to use the YOLOv3 model for object detection with OpenCV's `cv2.dnn` module. The code showcases how to load pre-trained YOLOv3 weights, perform inference on images, and visualize the results with bounding boxes and class labels.
 
 ---
+## Architecture
 
+YOLOv3 (You Only Look Once, Version 3) is a convolutional neural network architecture designed for real-time object detection. It divides the input image into a grid and predicts bounding boxes and class probabilities for each grid cell. The network is composed of Darknet-53 as the backbone, which consists of 53 convolutional layers trained on the ImageNet dataset, and additional layers to detect objects at three different scales. This multi-scale feature extraction allows YOLOv3 to detect small, medium, and large objects more effectively. The architecture employs anchor boxes, residual connections, and upsampling to enhance accuracy while maintaining high inference speed, making it suitable for real-time applications.
+![YOLO Architecture](yolov3-opencv/images/yolo1_net.webp)
+
+---
 ## Features
 
 - Load pre-trained YOLOv3 weights and configuration files.
