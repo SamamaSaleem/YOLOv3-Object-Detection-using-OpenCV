@@ -78,10 +78,10 @@ pip install opencv-python numpy matplotlib
 Below are examples of detections:
 
 ### Input Image
-![Input Image](images/input_sample.jpg)
+![Input Image](yolov3-opencv/images/londonxmas2.jpeg)
 
 ### Output Image with Detections
-![Output Image](images/output_sample.jpg)
+![Output Image](yolov3-opencv/images/londonxmas2OUT.png)
 
 ---
 
